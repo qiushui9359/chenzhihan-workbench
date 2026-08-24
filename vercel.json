@@ -1,5 +1,8 @@
 {
   "rewrites": [
-    { "source": "/", "destination": "/chenzhihan-workbench.html" }
+    {
+      "source": "/chenzhihan-workbench",
+      "destination": "/index.html"
+    }
   ]
 }
