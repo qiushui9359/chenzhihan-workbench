@@ -1,13 +1,9 @@
 {
   "name": "chenzhihan-workbench",
   "version": "1.0.0",
-  "description": "陈至涵的工作台 — 抖音爆款文案抓取、小红书爆款文案抓取、直播话术卡审规避、实时国内黄金价格、每日基金推荐操作",
-  "main": "server.js",
-  "scripts": {
-    "start": "node server.js"
-  },
+  "description": "陈至涵的工作台",
+  "private": true,
   "engines": {
     "node": ">=18.0.0"
-  },
-  "license": "MIT"
+  }
 }
