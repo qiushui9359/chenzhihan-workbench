@@ -1,9 +1,5 @@
 {
   "name": "chenzhihan-workbench",
   "version": "1.0.0",
-  "description": "陈至涵的工作台",
-  "private": true,
-  "engines": {
-    "node": ">=18.0.0"
-  }
+  "private": true
 }
