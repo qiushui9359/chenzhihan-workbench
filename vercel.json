@@ -1,12 +1,5 @@
 {
-  "version": 2,
   "rewrites": [
     { "source": "/", "destination": "/chenzhihan-workbench.html" }
-  ],
-  "functions": {
-    "api/gold.js": { "maxDuration": 30 },
-    "api/douyin.js": { "maxDuration": 10 },
-    "api/xhs.js": { "maxDuration": 10 },
-    "api/fund.js": { "maxDuration": 10 }
-  }
+  ]
 }
